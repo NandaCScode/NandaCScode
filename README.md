@@ -28,7 +28,7 @@ Compartilho minha evolução através dos meus projetos, estudos e experiências
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 👾​ Linguagens e Tecnologias
 
 
 <img
@@ -65,8 +65,21 @@ Compartilho minha evolução através dos meus projetos, estudos e experiências
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
-/>
+/>---
+---
 
+### Estatísticas
+
+
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="180" 
+    src="https://streak-stats.demolab.com?user=NandaCScode&theme=tokyonight&locale=pt_BR" 
+  />
+</p>
+
+</p>
 <br/>
 <br/>
 
